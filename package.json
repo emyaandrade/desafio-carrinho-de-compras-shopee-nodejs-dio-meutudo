@@ -1,0 +1,21 @@
+{
+  "name": "desafio-carrrinho-de-compras-shopee-com-nodejs-bootcamp-dio-meutudo",
+  "version": "1.0.0",
+  "description": "Desafio realizado durante Bootcamp Dio em parceria com meutudo.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emyaandrade/desafio-carrinho-de-compras-shopee-nodejs-dio-meutudo.git"
+  },
+  "keywords": ["carrinho compras shopee", "desafio dio meutudo", "backend carrinho compras", "lógica carrinho compras shopee"],
+  "author": "Emilly Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emyaandrade/desafio-carrinho-de-compras-shopee-nodejs-dio-meutudo/issues"
+  },
+  "homepage": "https://github.com/emyaandrade/desafio-carrinho-de-compras-shopee-nodejs-dio-meutudo#readme"
+}
