@@ -1,0 +1,24 @@
+// Quais ações meu carrinho pode fazer?
+
+
+// CASOS DE USO:
+
+// adicionar item no carrinho
+async function addItem(userCart){
+
+}
+
+// deletar o item do carrinho
+async function deleteItem(userCart, name){
+
+}
+
+// remover um item - diminui um item
+async function removeItem(userCart, index){
+
+}
+
+// calcular o total 
+async function calculateTotal(userCart){
+    
+}
